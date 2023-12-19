@@ -1,7 +1,7 @@
 # cartophrase
 Mapping the Earth with words
 
-This project is an open-source proposal to map every location on Earth with a short, memorable sequence of words.
+Notes on a proposal to map every location on Earth with a short, memorable sequence of words.
 
 This is a complex socio-technical problem at the intersection of many domains (cartography, human and physical geography, linguistics, culture, mathematics, engineering).
 
